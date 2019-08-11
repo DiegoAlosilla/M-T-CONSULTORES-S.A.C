@@ -15,13 +15,13 @@ Ser la organización de referencia en cuanto a la prestación de servicios de ex
 ## Servicios
 Los servicios de consultoría que ofrecerán serán los siguientes:
 1.	Formulación de Proyectos
-      Infraestructura
-      Productivos
-      Sociales
-      Industriales
-      Gestión de Riesgos ante Desastres
-      Seguridad y Salud en el Trabajo 
-      Otros.
+      1.1. Infraestructura
+      1.2. Productivos
+      1.3. Sociales
+      1.4. Industriales
+      1.5. Gestión de Riesgos ante Desastres
+      1.6. Seguridad y Salud en el Trabajo 
+      1.7. Otros.
       
 También se ofrece servicios en la formulación y ejecución de otro tipo de proyectos, como también asesoría en pre liquidación, liquidaciones técnicas y financieras de obras públicas, asesorías contables, etc.
 
