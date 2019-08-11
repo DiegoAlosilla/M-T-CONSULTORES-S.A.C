@@ -1,9 +1,9 @@
 # M&T CONSULTORES S.A.C
 
 ## Posibles Nombres de la Empresa:
-•	M&T CONSULTORES S.A.C
-•	CONSULTORES M&T S.A.C
-•	M&T SERVICIOS PROFESIONALES S.A.C
+M&T CONSULTORES S.A.C.
+CONSULTORES M&T S.A.C.
+M&T SERVICIOS PROFESIONALES S.A.C.
 ## Lema:
 “Experiencia, puntualidad y compromiso con nuestros clientes es nuestro lema”
 ## Quienes Somos
@@ -14,14 +14,14 @@ Satisfacer las necesidades de nuestros clientes, brindando servicios de consulto
 Ser la organización de referencia en cuanto a la prestación de servicios de excelencia en consultoría, asesoría, auditoría y gestión en todo lo relativo a la Seguridad, Salud Ocupacional y afines.
 ## Servicios
 Los servicios de consultoría que ofrecerán serán los siguientes:
-1.	Formulación de Proyectos
-      1.1. Infraestructura
-      1.2. Productivos
-      1.3. Sociales
-      1.4. Industriales
-      1.5. Gestión de Riesgos ante Desastres
-      1.6. Seguridad y Salud en el Trabajo 
-      1.7. Otros.
+1.	Formulación de Proyectos.
+1.1. Infraestructura.
+1.2. Productivos.
+1.3. Sociales.
+1.4. Industriales.
+1.5. Gestión de Riesgos ante Desastres.
+1.6. Seguridad y Salud en el Trabajo.
+1.7. Otros.
       
 También se ofrece servicios en la formulación y ejecución de otro tipo de proyectos, como también asesoría en pre liquidación, liquidaciones técnicas y financieras de obras públicas, asesorías contables, etc.
 
